@@ -3,11 +3,10 @@ import Head from "next/head";
 import Link from "next/link";
 import { useEffect } from "react";
 
-
 import { api } from "../utils/api";
 
 const Home: NextPage = () => {
-  // const {}= api.example.test.useQuery({ teststring: "from tRPC" });
+  // const {hello}= api.example.test.useQuery({ teststring: "from tRPC" });
 
 
   return (
